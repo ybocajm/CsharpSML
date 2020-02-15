@@ -1,0 +1,6 @@
+C:\Users\Ice\source\repos\AcmeAssignment\bin\Debug\AcmeAssignment.exe.config
+C:\Users\Ice\source\repos\AcmeAssignment\bin\Debug\AcmeAssignment.exe
+C:\Users\Ice\source\repos\AcmeAssignment\bin\Debug\AcmeAssignment.pdb
+C:\Users\Ice\source\repos\AcmeAssignment\obj\Debug\AcmeAssignment.csprojAssemblyReference.cache
+C:\Users\Ice\source\repos\AcmeAssignment\obj\Debug\AcmeAssignment.exe
+C:\Users\Ice\source\repos\AcmeAssignment\obj\Debug\AcmeAssignment.pdb
