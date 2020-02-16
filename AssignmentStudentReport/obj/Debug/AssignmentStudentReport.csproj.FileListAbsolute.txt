@@ -1,0 +1,6 @@
+C:\Users\Ice\source\repos\AssignmentStudentReport\bin\Debug\AssignmentStudentReport.exe.config
+C:\Users\Ice\source\repos\AssignmentStudentReport\bin\Debug\AssignmentStudentReport.exe
+C:\Users\Ice\source\repos\AssignmentStudentReport\bin\Debug\AssignmentStudentReport.pdb
+C:\Users\Ice\source\repos\AssignmentStudentReport\obj\Debug\AssignmentStudentReport.csprojAssemblyReference.cache
+C:\Users\Ice\source\repos\AssignmentStudentReport\obj\Debug\AssignmentStudentReport.exe
+C:\Users\Ice\source\repos\AssignmentStudentReport\obj\Debug\AssignmentStudentReport.pdb
