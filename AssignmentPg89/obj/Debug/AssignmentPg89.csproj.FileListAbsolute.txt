@@ -1,0 +1,6 @@
+C:\Users\Ice\source\repos\AssignmentPg89\bin\Debug\AssignmentPg89.exe.config
+C:\Users\Ice\source\repos\AssignmentPg89\bin\Debug\AssignmentPg89.exe
+C:\Users\Ice\source\repos\AssignmentPg89\bin\Debug\AssignmentPg89.pdb
+C:\Users\Ice\source\repos\AssignmentPg89\obj\Debug\AssignmentPg89.csprojAssemblyReference.cache
+C:\Users\Ice\source\repos\AssignmentPg89\obj\Debug\AssignmentPg89.exe
+C:\Users\Ice\source\repos\AssignmentPg89\obj\Debug\AssignmentPg89.pdb
