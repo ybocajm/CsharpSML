@@ -1,0 +1,6 @@
+C:\Users\Ice\source\repos\AssignmentIncomeComparison\bin\Debug\AssignmentIncomeComparison.exe.config
+C:\Users\Ice\source\repos\AssignmentIncomeComparison\bin\Debug\AssignmentIncomeComparison.exe
+C:\Users\Ice\source\repos\AssignmentIncomeComparison\bin\Debug\AssignmentIncomeComparison.pdb
+C:\Users\Ice\source\repos\AssignmentIncomeComparison\obj\Debug\AssignmentIncomeComparison.exe
+C:\Users\Ice\source\repos\AssignmentIncomeComparison\obj\Debug\AssignmentIncomeComparison.pdb
+C:\Users\Ice\source\repos\AssignmentIncomeComparison\obj\Debug\AssignmentIncomeComparison.csprojAssemblyReference.cache
