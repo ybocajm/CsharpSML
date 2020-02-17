@@ -1,0 +1,6 @@
+C:\Users\Ice\source\repos\AssignmentBoolean\bin\Debug\AssignmentBoolean.exe.config
+C:\Users\Ice\source\repos\AssignmentBoolean\bin\Debug\AssignmentBoolean.exe
+C:\Users\Ice\source\repos\AssignmentBoolean\bin\Debug\AssignmentBoolean.pdb
+C:\Users\Ice\source\repos\AssignmentBoolean\obj\Debug\AssignmentBoolean.csprojAssemblyReference.cache
+C:\Users\Ice\source\repos\AssignmentBoolean\obj\Debug\AssignmentBoolean.exe
+C:\Users\Ice\source\repos\AssignmentBoolean\obj\Debug\AssignmentBoolean.pdb
