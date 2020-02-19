@@ -1,0 +1,6 @@
+C:\Users\Ice\source\repos\AssignmentBranching\bin\Debug\AssignmentBranching.exe.config
+C:\Users\Ice\source\repos\AssignmentBranching\bin\Debug\AssignmentBranching.exe
+C:\Users\Ice\source\repos\AssignmentBranching\bin\Debug\AssignmentBranching.pdb
+C:\Users\Ice\source\repos\AssignmentBranching\obj\Debug\AssignmentBranching.csprojAssemblyReference.cache
+C:\Users\Ice\source\repos\AssignmentBranching\obj\Debug\AssignmentBranching.exe
+C:\Users\Ice\source\repos\AssignmentBranching\obj\Debug\AssignmentBranching.pdb
