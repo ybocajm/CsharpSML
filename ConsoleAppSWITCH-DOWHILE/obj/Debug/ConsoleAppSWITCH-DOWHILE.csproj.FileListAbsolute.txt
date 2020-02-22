@@ -1,0 +1,6 @@
+C:\Users\Ice\source\repos\ConsoleAppSWITCH-DOWHILE\bin\Debug\ConsoleAppSWITCH-DOWHILE.exe.config
+C:\Users\Ice\source\repos\ConsoleAppSWITCH-DOWHILE\bin\Debug\ConsoleAppSWITCH-DOWHILE.exe
+C:\Users\Ice\source\repos\ConsoleAppSWITCH-DOWHILE\bin\Debug\ConsoleAppSWITCH-DOWHILE.pdb
+C:\Users\Ice\source\repos\ConsoleAppSWITCH-DOWHILE\obj\Debug\ConsoleAppSWITCH-DOWHILE.csprojAssemblyReference.cache
+C:\Users\Ice\source\repos\ConsoleAppSWITCH-DOWHILE\obj\Debug\ConsoleAppSWITCH-DOWHILE.exe
+C:\Users\Ice\source\repos\ConsoleAppSWITCH-DOWHILE\obj\Debug\ConsoleAppSWITCH-DOWHILE.pdb
