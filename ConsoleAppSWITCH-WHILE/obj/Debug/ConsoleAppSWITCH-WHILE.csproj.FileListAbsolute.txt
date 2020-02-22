@@ -1,0 +1,6 @@
+C:\Users\Ice\source\repos\ConsoleAppSWITCH-WHILE\bin\Debug\ConsoleAppSWITCH-WHILE.exe.config
+C:\Users\Ice\source\repos\ConsoleAppSWITCH-WHILE\bin\Debug\ConsoleAppSWITCH-WHILE.exe
+C:\Users\Ice\source\repos\ConsoleAppSWITCH-WHILE\bin\Debug\ConsoleAppSWITCH-WHILE.pdb
+C:\Users\Ice\source\repos\ConsoleAppSWITCH-WHILE\obj\Debug\ConsoleAppSWITCH-WHILE.exe
+C:\Users\Ice\source\repos\ConsoleAppSWITCH-WHILE\obj\Debug\ConsoleAppSWITCH-WHILE.pdb
+C:\Users\Ice\source\repos\ConsoleAppSWITCH-WHILE\obj\Debug\ConsoleAppSWITCH-WHILE.csprojAssemblyReference.cache
