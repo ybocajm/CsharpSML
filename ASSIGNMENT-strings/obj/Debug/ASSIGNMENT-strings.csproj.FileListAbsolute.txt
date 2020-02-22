@@ -1,0 +1,5 @@
+C:\Users\Ice\source\repos\ASSIGNMENT-strings\bin\Debug\ASSIGNMENT-strings.exe.config
+C:\Users\Ice\source\repos\ASSIGNMENT-strings\bin\Debug\ASSIGNMENT-strings.exe
+C:\Users\Ice\source\repos\ASSIGNMENT-strings\bin\Debug\ASSIGNMENT-strings.pdb
+C:\Users\Ice\source\repos\ASSIGNMENT-strings\obj\Debug\ASSIGNMENT-strings.exe
+C:\Users\Ice\source\repos\ASSIGNMENT-strings\obj\Debug\ASSIGNMENT-strings.pdb
