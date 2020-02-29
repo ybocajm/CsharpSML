@@ -33,40 +33,71 @@ class Program
         Console.Write("Part 1 ---> Select 0, 1, or 2:  ");
         string userChoice = Console.ReadLine();
         int yourChoice = Convert.ToInt32(userChoice);
-        Console.WriteLine(nameArray[yourChoice]);
-        ////Console.ReadLine();
+        //Console.WriteLine(nameArray[yourChoice]);
+        if (yourChoice == 0)
+        {
+            Console.WriteLine("You chose " + (nameArray[yourChoice]) + ".");
+        }
+        else if (yourChoice == 1)
+        {
+            Console.WriteLine("You chose " + (nameArray[yourChoice]) + ".");
+        }
+        else if (yourChoice == 2)
+        {
+            Console.WriteLine("You chose " + (nameArray[yourChoice]) + ".");
+        }
+        else
+        {
+            Console.WriteLine("Part 1 ---> That is an invalid choice, please try again");
+        }
+        //Console.ReadLine();
 
 // Part 2:  Select array and display index
         Console.Write("Part 2 ---> Select 0, 1, or 2:  ");
         string userChoice2 = Console.ReadLine();
         int yourChoice2 = Convert.ToInt32(userChoice2);
-        Console.WriteLine("Your choice is nameArray[" + yourChoice2 + "]");
-        //Console.WriteLine(nameArray[2]);
-        Console.ReadLine();
-
-// Part 3:  Add message for invalid choice (index doesn't exist)
-
-        Console.Write("Part 3 ---> Select 0, 1, or 2:  ");
-        string userChoice3 = Console.ReadLine();
-        int yourChoice3 = Convert.ToInt32(userChoice3);
-
-        if (yourChoice3 == 0)
+        //Console.WriteLine("Your choice is nameArray[" + yourChoice2 + "]");
+        if (yourChoice2 == 0)
         {
-            Console.WriteLine("Your choice is nameArray[" + yourChoice3 + "]");
+            Console.WriteLine("Your choice is nameArray[" + yourChoice2 + "]");
         }
-        else if (yourChoice3 == 1)
+        else if (yourChoice2 == 1)
         {
-            Console.WriteLine("Your choice is nameArray[" + yourChoice3 + "]");
+            Console.WriteLine("Your choice is nameArray[" + yourChoice2 + "]");
         }
-        else if (yourChoice3 == 2)
+        else if (yourChoice2 == 2)
         {
-            Console.WriteLine("Your choice is nameArray[" + yourChoice3 + "]");
+            Console.WriteLine("Your choice is nameArray[" + yourChoice2 + "]");
         }
         else
         {
-            Console.WriteLine("That is an invalid choice, please try again");
+            Console.WriteLine("Part 2 ---> That is an invalid choice, please try again");
         }
-        Console.ReadLine();
+        //Console.ReadLine();
+
+// Part 3:  I included If/Else in all 3 other sections, so this should be covered.
+
+        //Console.Write("Part 3 ---> Select 0, 1, or 2:  ");
+        //string userChoice3 = Console.ReadLine();
+        //int yourChoice3 = Convert.ToInt32(userChoice3);
+
+        //if (yourChoice3 == 0)
+        //{
+        //    Console.WriteLine("Your choice is nameArray[" + yourChoice3 + "]");
+        //}
+        //else if (yourChoice3 == 1)
+        //{
+        //    Console.WriteLine("Your choice is nameArray[" + yourChoice3 + "]");
+        //}
+        //else if (yourChoice3 == 2)
+        //{
+        //    Console.WriteLine("Your choice is nameArray[" + yourChoice3 + "]");
+        //}
+        //else
+        //{
+        //    Console.WriteLine("That is an invalid choice, please try again");
+        //}
+        //Console.ReadLine();
 
 
         //Console.WriteLine("What is your name?");
@@ -96,7 +127,22 @@ class Program
         Console.Write("Part 4 ---> Pick 0, 1, or 2:  ");
         string userInput = Console.ReadLine();
         int pick = Convert.ToInt32(userInput);
-        Console.WriteLine(intList[pick]);
+        if (pick == 0)
+        {
+            Console.WriteLine((intList[pick]) + ", it's me");
+        }
+        else if (pick == 1)
+        {
+            Console.WriteLine("My name is " + (intList[pick]) + ".");
+        }
+        else if (pick == 2)
+        {
+            Console.WriteLine("I ride a " + (intList[pick]) + " motorcycle.");
+        }
+        else
+        {
+            Console.WriteLine("That is an invalid choice, please try again");
+        }
         Console.ReadLine();
 
 
