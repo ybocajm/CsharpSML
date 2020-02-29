@@ -1,0 +1,6 @@
+C:\Users\Ice\source\repos\ASSIGNMENT-ArraysLists\bin\Debug\ASSIGNMENT-ArraysLists.exe.config
+C:\Users\Ice\source\repos\ASSIGNMENT-ArraysLists\bin\Debug\ASSIGNMENT-ArraysLists.exe
+C:\Users\Ice\source\repos\ASSIGNMENT-ArraysLists\bin\Debug\ASSIGNMENT-ArraysLists.pdb
+C:\Users\Ice\source\repos\ASSIGNMENT-ArraysLists\obj\Debug\ASSIGNMENT-ArraysLists.csprojAssemblyReference.cache
+C:\Users\Ice\source\repos\ASSIGNMENT-ArraysLists\obj\Debug\ASSIGNMENT-ArraysLists.exe
+C:\Users\Ice\source\repos\ASSIGNMENT-ArraysLists\obj\Debug\ASSIGNMENT-ArraysLists.pdb
