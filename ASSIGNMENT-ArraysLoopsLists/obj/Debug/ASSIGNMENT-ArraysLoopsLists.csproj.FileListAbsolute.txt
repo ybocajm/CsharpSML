@@ -1,0 +1,6 @@
+C:\Users\Ice\source\repos\ASSIGNMENT-ArraysLoopsLists\bin\Debug\ASSIGNMENT-ArraysLoopsLists.exe.config
+C:\Users\Ice\source\repos\ASSIGNMENT-ArraysLoopsLists\bin\Debug\ASSIGNMENT-ArraysLoopsLists.exe
+C:\Users\Ice\source\repos\ASSIGNMENT-ArraysLoopsLists\bin\Debug\ASSIGNMENT-ArraysLoopsLists.pdb
+C:\Users\Ice\source\repos\ASSIGNMENT-ArraysLoopsLists\obj\Debug\ASSIGNMENT-ArraysLoopsLists.csprojAssemblyReference.cache
+C:\Users\Ice\source\repos\ASSIGNMENT-ArraysLoopsLists\obj\Debug\ASSIGNMENT-ArraysLoopsLists.exe
+C:\Users\Ice\source\repos\ASSIGNMENT-ArraysLoopsLists\obj\Debug\ASSIGNMENT-ArraysLoopsLists.pdb
