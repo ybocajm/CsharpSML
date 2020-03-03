@@ -37,6 +37,8 @@ using System.Collections.Generic;
 // 3. re-added m++ to fix infinite loop
 // 4. Create a loop using < operator --- I did that in the for loop
 // 5. Create loop using <=
+			
+// Ben said, "The simplest fix would be to not use numbers[i] in the Console.WriteLine."
 
 		int[] numbers = { 1, 9, 15, 21, 50, 99 };
 
